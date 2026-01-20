@@ -34,7 +34,7 @@ https://archanaingle03.github.io/delicious-bites-restaurant-website/
 ![Home Page](screenshots/home.png)
 
 ### Menu Section
-![Menu Section](screenshots/menu.png)
+![Menu Section](screenshots/about.png)
 
 ### Contact Section
 ![Contact Section](screenshots/contact.png)
