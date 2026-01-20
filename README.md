@@ -29,9 +29,17 @@ https://archanaingle03.github.io/delicious-bites-restaurant-website/
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your website here)
+## 📸 Screenshots
 
----
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Menu Section
+![Menu Section](screenshots/menu.png)
+
+### Contact Section
+![Contact Section](screenshots/contact.png)
+
 
 ## 👩‍💻 Author
 **Archana Ingle**  
