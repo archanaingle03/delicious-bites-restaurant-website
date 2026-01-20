@@ -29,10 +29,9 @@ https://archanaingle03.github.io/delicious-bites-restaurant-website/
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png)"E:\New Volume\Sigma Batch\Projects\screeshots\home.png"
 
 ### Menu Section
 ![Menu Section](screenshots/menu.png)
