@@ -1,0 +1,31 @@
+/* HERO SECTION */
+.hero {
+  height: 100vh;
+  background: url("img/front3.png") center/cover no-repeat;
+  padding-top: 150px;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+/* MENU CARDS */
+.card {
+  transition: 0.3s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* CONTACT FORM */
+#contact input,
+#contact textarea {
+  background: #313030;
+  color: white;
+  border: none;
+}
+#contact input::placeholder,
+#contact textarea::placeholder {
+  color: #ccc;
+}
